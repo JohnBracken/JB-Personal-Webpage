@@ -1,0 +1,187 @@
+body{
+        font-family: 'Open Sans', Helvetica, sans-serif;
+        margin: 0 auto;
+        padding: 0;
+	background-color: #f2fcfc;
+	box-sizing: border-box;
+    }
+h1  {
+	font-size: 45px;
+
+	}
+h2  {
+        font-size: 30px;
+    }
+p   {
+        max-width:800px;
+	font-size: 20px;	
+	}
+nav  {
+	overflow: hidden;	
+        background-color: #8be0e0;        
+     }
+nav a {
+        float: left;
+        display: block;
+        color: #050200;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+	font-size: 36px;
+      }
+nav a:hover {
+        background-color: #f5dfa2;
+        color: black;
+            }
+.index_content {
+            padding: 16px;
+         }
+.about_content {
+            padding: 16px;
+         }
+.interest_content{
+            padding: 16px;
+         }
+.project_content{
+            padding: 16px;
+         }
+.contact_content{
+            padding: 16px;
+         }
+.lorentz {
+	    margin-top: 150px;
+	    display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	    width: 75%;
+	    height: 75%;
+	    opacity: 0.4;
+	}
+.johnb {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 30%;
+	    height: 30%;
+
+	}
+.linux {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 20%;
+	    height: 20%;
+
+	}
+.bike {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 30%;
+	    height: 30%;
+
+	}
+.book {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 20%;
+	    height: 20%;
+
+	}
+.record {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 30%;
+	    height: 30%;
+
+	}
+.games {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 30%;
+	    height: 30%;
+
+	}
+.roulette {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 40%;
+	    height: 40%;
+
+	}
+.exoplanet {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 40%;
+	    height: 40%;
+
+	}
+.montecarlo1 {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 40%;
+	    height: 40%;
+
+	}
+.montecarlo2{
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width: 40%;
+	    height: 40%;
+
+	}
+.montecarlo3 {
+	    margin-top: 25px;
+	    margin-left: 16px;
+	    margin-bottom: 30px;
+	    display: block;
+	    margin-right: auto;
+	    width:40%;
+	    height: 40%;
+
+	}
+.linkedin {
+	    margin-top: 25px;
+	    margin-left: 20px;
+	    margin-bottom: 30px;
+	    margin-right: auto;
+	}
+.github {
+	    margin-top: 25px;
+	    margin-left: 20px;
+	    margin-bottom: 30px;
+	    margin-right: auto;
+	}
+.scholar{
+	    margin-top: 25px;
+	    margin-left: 20px;
+	    margin-bottom: 30px;
+	    margin-right: auto;
+	}
